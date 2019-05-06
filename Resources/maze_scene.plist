@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>grass.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1024,767}</string>
+                <key>spriteSourceSize</key>
+                <string>{1024,767}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{1024,767}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>1024 767 0 767 0 0 1024 0</string>
+                <key>verticesUV</key>
+                <string>1025 768 1 768 1 1 1025 1</string>
+            </dict>
+            <key>stone_wall.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{200,200}</string>
+                <key>spriteSourceSize</key>
+                <string>{200,200}</string>
+                <key>textureRect</key>
+                <string>{{1773,1191},{200,200}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>200 200 0 200 0 0 200 0</string>
+                <key>verticesUV</key>
+                <string>1973 1391 1773 1391 1773 1191 1973 1191</string>
+            </dict>
+            <key>survivor-idle_knife_0.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{9.5,9.5}</string>
+                <key>spriteSize</key>
+                <string>{256,179}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,224}</string>
+                <key>textureRect</key>
+                <string>{{776,770},{256,179}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>8 2 3 9 2 8 9 10 2 4 5 6 3 6 7 3 4 6 8 3 7 0 2 10 0 1 2 0 10 11</string>
+                <key>vertices</key>
+                <string>160 32 195 65 176 113 189 131 200 68 282 112 238 129 221 192 70 190 26 125 85 29 115 13</string>
+                <key>verticesUV</key>
+                <string>910 789 945 822 926 870 939 888 950 825 1032 869 988 886 971 949 820 947 776 882 835 786 865 770</string>
+            </dict>
+            <key>survivor-idle_knife_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{11,8}</string>
+                <key>spriteSize</key>
+                <string>{253,172}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,224}</string>
+                <key>textureRect</key>
+                <string>{{1518,266},{253,172}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 7 8 1 7 0 1 3 4 1 4 5 1 2 3 1 6 7 6 1 5</string>
+                <key>vertices</key>
+                <string>135 19 193 61 282 112 242 128 219 190 75 190 46 161 29 115 89 18</string>
+                <key>verticesUV</key>
+                <string>1624 267 1682 309 1771 360 1731 376 1708 438 1564 438 1535 409 1518 363 1578 266</string>
+            </dict>
+            <key>survivor-idle_knife_10.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{11.5,9}</string>
+                <key>spriteSize</key>
+                <string>{260,188}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,224}</string>
+                <key>textureRect</key>
+                <string>{{1425,1},{260,188}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>7 1 2 7 8 1 2 5 6 5 2 3 5 3 4 2 6 7 8 9 1 1 9 10 0 1 10</string>
+                <key>vertices</key>
+                <string>188 47 169 93 179 124 206 68 286 109 241 136 219 183 69 197 26 134 72 29 109 9</string>
+                <key>verticesUV</key>
+                <string>1587 39 1568 85 1578 116 1605 60 1685 101 1640 128 1618 175 1468 189 1425 126 1471 21 1508 1</string>
+            </dict>
+            <key>survivor-idle_knife_11.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{8.5,6.5}</string>
+                <key>spriteSize</key>
+                <string>{254,185}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,224}</string>
+                <key>textureRect</key>
+                <string>{{1431,812},{254,185}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 9 10 1 8 9 2 6 7 3 4 5 2 5 6 2 3 5 1 2 7 1 7 8 0 1 10</string>
+                <key>vertices</key>
+                <string>189 49 168 94 189 131 203 65 280 111 241 136 218 182 74 198 26 134 75 21 116 13</string>
+                <key>verticesUV</key>
+                <string>1594 848 1573 893 1594 930 1608 864 1685 910 1646 935 1623 981 1479 997 1431 933 1480 820 1521 812</string>
+            </dict>
+            <key>survivor-idle_knife_12.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{9.5,8.5}</string>
+                <key>spriteSize</key>
+                <string>{248,175}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,224}</string>
+                <key>textureRect</key>
+                <string>{{1616,115},{248,175}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 12 13 1 11 12 10 11 1 1 8 9 2 6 7 4 5 6 2 4 6 2 3 4 2 7 8 1 2 8 10 1 9 0 1 13</string>
+                <key>vertices</key>
+                <string>203 55 159 91 195 117 201 75 248 83 278 113 244 135 219 179 177 191 74 191 39 156 30 117 80 17 120 16</string>
+                <key>verticesUV</key>
+                <string>1789 154 1745 190 1781 216 1787 174 1834 182 1864 212 1830 234 1805 278 1763 290 1660 290 1625 255 1616 216 1666 116 1706 115</string>
+            </dict>
+            <key>survivor-idle_knife_13.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{5.5,12.5}</string>
+                <key>spriteSize</key>
+                <string>{256,189}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,224}</string>
+                <key>textureRect</key>
+                <string>{{1321,160},{256,189}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>7 1 2 8 9 1 8 1 7 2 4 5 2 5 6 2 3 4 7 2 6 1 9 10 0 1 10</string>
+                <key>vertices</key>
+                <string>198 56 163 95 196 124 198 79 224 78 278 109 214 184 77 194 22 139 72 35 103 5</string>
+                <key>verticesUV</key>
+                <string>1497 211 1462 250 1495 279 1497 234 1523 233 1577 264 1513 339 1376 349 1321 294 1371 190 1402 160</string>
+            </dict>
+            <key>survivor-idle_knife_14.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{10,10}</string>
+                <key>spriteSize</key>
+                <string>{259,186}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,224}</string>
+                <key>textureRect</key>
+                <string>{{1251,331},{259,186}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 10 11 9 1 8 2 6 7 4 5 6 3 4 6 2 3 6 2 7 8 1 2 8 9 10 1 0 1 11</string>
+                <key>vertices</key>
+                <string>199 58 163 96 196 128 197 86 218 75 284 114 240 128 221 185 73 195 25 130 78 29 115 9</string>
+                <key>verticesUV</key>
+                <string>1425 380 1389 418 1422 450 1423 408 1444 397 1510 436 1466 450 1447 507 1299 517 1251 452 1304 351 1341 331</string>
+            </dict>
+            <key>survivor-idle_knife_15.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{11,11}</string>
+                <key>spriteSize</key>
+                <string>{249,180}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,224}</string>
+                <key>textureRect</key>
+                <string>{{1106,1025},{249,180}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>8 2 7 9 10 1 9 1 8 1 2 8 2 5 6 3 4 5 2 3 5 2 6 7 10 11 1 1 11 12 0 1 12</string>
+                <key>vertices</key>
+                <string>203 62 169 97 188 129 204 68 280 111 234 137 228 177 184 191 75 191 41 157 31 116 81 25 116 11</string>
+                <key>verticesUV</key>
+                <string>1278 1076 1244 1111 1263 1143 1279 1082 1355 1125 1309 1151 1303 1191 1259 1205 1150 1205 1116 1171 1106 1130 1156 1039 1191 1025</string>
+            </dict>
+            <key>survivor-idle_knife_16.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{6.5,8}</string>
+                <key>spriteSize</key>
+                <string>{250,184}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,224}</string>
+                <key>textureRect</key>
+                <string>{{802,1026},{250,184}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 11 12 9 10 1 10 11 1 2 6 7 4 5 6 3 4 6 2 3 6 2 7 8 1 2 8 9 1 8 0 1 12</string>
+                <key>vertices</key>
+                <string>193 57 175 110 193 128 200 67 276 107 267 122 239 115 227 184 110 196 61 182 26 127 82 26 120 12</string>
+                <key>verticesUV</key>
+                <string>969 1071 951 1124 969 1142 976 1081 1052 1121 1043 1136 1015 1129 1003 1198 886 1210 837 1196 802 1141 858 1040 896 1026</string>
+            </dict>
+            <key>survivor-idle_knife_17.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{10,8}</string>
+                <key>spriteSize</key>
+                <string>{255,176}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,224}</string>
+                <key>textureRect</key>
+                <string>{{232,770},{255,176}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 10 11 2 9 10 8 2 3 4 5 6 3 6 7 3 4 6 8 3 7 2 8 9 0 1 2 0 2 11</string>
+                <key>vertices</key>
+                <string>160 31 194 61 174 109 192 122 200 66 282 113 243 126 217 192 69 191 27 128 80 23 119 16</string>
+                <key>verticesUV</key>
+                <string>365 785 399 815 379 863 397 876 405 820 487 867 448 880 422 946 274 945 232 882 285 777 324 770</string>
+            </dict>
+            <key>survivor-idle_knife_18.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{6,9.5}</string>
+                <key>spriteSize</key>
+                <string>{257,181}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,224}</string>
+                <key>textureRect</key>
+                <string>{{1176,859},{257,181}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 10 11 7 8 9 1 9 10 2 5 6 5 2 3 5 3 4 2 6 7 1 2 7 1 7 9 0 1 11</string>
+                <key>vertices</key>
+                <string>193 61 178 117 188 132 200 67 279 111 241 131 219 190 68 193 22 116 43 100 85 25 124 12</string>
+                <key>verticesUV</key>
+                <string>1347 908 1332 964 1342 979 1354 914 1433 958 1395 978 1373 1037 1222 1040 1176 963 1197 947 1239 872 1278 859</string>
+            </dict>
+            <key>survivor-idle_knife_19.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{11,8}</string>
+                <key>spriteSize</key>
+                <string>{253,172}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,224}</string>
+                <key>textureRect</key>
+                <string>{{1518,266},{253,172}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 7 8 1 7 0 1 3 4 1 4 5 1 2 3 1 6 7 6 1 5</string>
+                <key>vertices</key>
+                <string>135 19 193 61 282 112 242 128 219 190 75 190 46 161 29 115 89 18</string>
+                <key>verticesUV</key>
+                <string>1624 267 1682 309 1771 360 1731 376 1708 438 1564 438 1535 409 1518 363 1578 266</string>
+            </dict>
+            <key>survivor-idle_knife_2.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{6,9.5}</string>
+                <key>spriteSize</key>
+                <string>{257,181}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,224}</string>
+                <key>textureRect</key>
+                <string>{{1176,859},{257,181}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 10 11 7 8 9 1 9 10 2 5 6 5 2 3 5 3 4 2 6 7 1 2 7 1 7 9 0 1 11</string>
+                <key>vertices</key>
+                <string>193 61 178 117 188 132 200 67 279 111 241 131 219 190 68 193 22 116 43 100 85 25 124 12</string>
+                <key>verticesUV</key>
+                <string>1347 908 1332 964 1342 979 1354 914 1433 958 1395 978 1373 1037 1222 1040 1176 963 1197 947 1239 872 1278 859</string>
+            </dict>
+            <key>survivor-idle_knife_3.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{10,8}</string>
+                <key>spriteSize</key>
+                <string>{255,176}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,224}</string>
+                <key>textureRect</key>
+                <string>{{232,770},{255,176}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 10 11 2 9 10 8 2 3 4 5 6 3 6 7 3 4 6 8 3 7 2 8 9 0 1 2 0 2 11</string>
+                <key>vertices</key>
+                <string>160 31 194 61 174 109 192 122 200 66 282 113 243 126 217 192 69 191 27 128 80 23 119 16</string>
+                <key>verticesUV</key>
+                <string>365 785 399 815 379 863 397 876 405 820 487 867 448 880 422 946 274 945 232 882 285 777 324 770</string>
+            </dict>
+            <key>survivor-idle_knife_4.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{6.5,8}</string>
+                <key>spriteSize</key>
+                <string>{250,184}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,224}</string>
+                <key>textureRect</key>
+                <string>{{802,1026},{250,184}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 11 12 9 10 1 10 11 1 2 6 7 4 5 6 3 4 6 2 3 6 2 7 8 1 2 8 9 1 8 0 1 12</string>
+                <key>vertices</key>
+                <string>193 57 175 110 193 128 200 67 276 107 267 122 239 115 227 184 110 196 61 182 26 127 82 26 120 12</string>
+                <key>verticesUV</key>
+                <string>969 1071 951 1124 969 1142 976 1081 1052 1121 1043 1136 1015 1129 1003 1198 886 1210 837 1196 802 1141 858 1040 896 1026</string>
+            </dict>
+            <key>survivor-idle_knife_5.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{11,11}</string>
+                <key>spriteSize</key>
+                <string>{249,180}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,224}</string>
+                <key>textureRect</key>
+                <string>{{1106,1025},{249,180}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>8 2 7 9 10 1 9 1 8 1 2 8 2 5 6 3 4 5 2 3 5 2 6 7 10 11 1 1 11 12 0 1 12</string>
+                <key>vertices</key>
+                <string>203 62 169 97 188 129 204 68 280 111 234 137 228 177 184 191 75 191 41 157 31 116 81 25 116 11</string>
+                <key>verticesUV</key>
+                <string>1278 1076 1244 1111 1263 1143 1279 1082 1355 1125 1309 1151 1303 1191 1259 1205 1150 1205 1116 1171 1106 1130 1156 1039 1191 1025</string>
+            </dict>
+            <key>survivor-idle_knife_6.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{10,10}</string>
+                <key>spriteSize</key>
+                <string>{259,186}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,224}</string>
+                <key>textureRect</key>
+                <string>{{1251,331},{259,186}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 10 11 9 1 8 2 6 7 4 5 6 3 4 6 2 3 6 2 7 8 1 2 8 9 10 1 0 1 11</string>
+                <key>vertices</key>
+                <string>199 58 163 96 196 128 197 86 218 75 284 114 240 128 221 185 73 195 25 130 78 29 115 9</string>
+                <key>verticesUV</key>
+                <string>1425 380 1389 418 1422 450 1423 408 1444 397 1510 436 1466 450 1447 507 1299 517 1251 452 1304 351 1341 331</string>
+            </dict>
+            <key>survivor-idle_knife_7.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{5.5,12.5}</string>
+                <key>spriteSize</key>
+                <string>{256,189}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,224}</string>
+                <key>textureRect</key>
+                <string>{{1321,160},{256,189}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>7 1 2 8 9 1 8 1 7 2 4 5 2 5 6 2 3 4 7 2 6 1 9 10 0 1 10</string>
+                <key>vertices</key>
+                <string>198 56 163 95 196 124 198 79 224 78 278 109 214 184 77 194 22 139 72 35 103 5</string>
+                <key>verticesUV</key>
+                <string>1497 211 1462 250 1495 279 1497 234 1523 233 1577 264 1513 339 1376 349 1321 294 1371 190 1402 160</string>
+            </dict>
+            <key>survivor-idle_knife_8.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{9.5,8.5}</string>
+                <key>spriteSize</key>
+                <string>{248,175}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,224}</string>
+                <key>textureRect</key>
+                <string>{{1616,115},{248,175}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 12 13 1 11 12 10 11 1 1 8 9 2 6 7 4 5 6 2 4 6 2 3 4 2 7 8 1 2 8 10 1 9 0 1 13</string>
+                <key>vertices</key>
+                <string>203 55 159 91 195 117 201 75 248 83 278 113 244 135 219 179 177 191 74 191 39 156 30 117 80 17 120 16</string>
+                <key>verticesUV</key>
+                <string>1789 154 1745 190 1781 216 1787 174 1834 182 1864 212 1830 234 1805 278 1763 290 1660 290 1625 255 1616 216 1666 116 1706 115</string>
+            </dict>
+            <key>survivor-idle_knife_9.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{8.5,6.5}</string>
+                <key>spriteSize</key>
+                <string>{254,185}</string>
+                <key>spriteSourceSize</key>
+                <string>{289,224}</string>
+                <key>textureRect</key>
+                <string>{{1431,812},{254,185}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 9 10 1 8 9 2 6 7 3 4 5 2 5 6 2 3 5 1 2 7 1 7 8 0 1 10</string>
+                <key>vertices</key>
+                <string>189 49 168 94 189 131 203 65 280 111 241 136 218 182 74 198 26 134 75 21 116 13</string>
+                <key>verticesUV</key>
+                <string>1594 848 1573 893 1594 930 1608 864 1685 910 1646 935 1623 981 1479 997 1431 933 1480 820 1521 812</string>
+            </dict>
+            <key>survivor-meleeattack_knife_0.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-13.5,47.5}</string>
+                <key>spriteSize</key>
+                <string>{256,179}</string>
+                <key>spriteSourceSize</key>
+                <string>{329,300}</string>
+                <key>textureRect</key>
+                <string>{{935,902},{256,179}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>8 2 3 9 2 8 9 10 2 4 5 6 3 6 7 3 4 6 8 3 7 0 2 10 0 1 2 0 10 11</string>
+                <key>vertices</key>
+                <string>157 32 192 65 173 113 186 131 197 68 279 112 235 129 218 192 67 190 23 125 82 29 112 13</string>
+                <key>verticesUV</key>
+                <string>1069 921 1104 954 1085 1002 1098 1020 1109 957 1191 1001 1147 1018 1130 1081 979 1079 935 1014 994 918 1024 902</string>
+            </dict>
+            <key>survivor-meleeattack_knife_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-20.5,45}</string>
+                <key>spriteSize</key>
+                <string>{238,186}</string>
+                <key>spriteSourceSize</key>
+                <string>{329,300}</string>
+                <key>textureRect</key>
+                <string>{{1556,1070},{238,186}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>3 0 2 4 0 3 4 5 0 0 1 2 0 5 6</string>
+                <key>vertices</key>
+                <string>178 56 263 81 217 179 72 198 25 134 74 32 112 12</string>
+                <key>verticesUV</key>
+                <string>1709 1114 1794 1139 1748 1237 1603 1256 1556 1192 1605 1090 1643 1070</string>
+            </dict>
+            <key>survivor-meleeattack_knife_10.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-13,5.5}</string>
+                <key>spriteSize</key>
+                <string>{233,261}</string>
+                <key>spriteSourceSize</key>
+                <string>{329,300}</string>
+                <key>textureRect</key>
+                <string>{{1027,1},{233,261}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 14 15 12 13 2 12 10 11 13 14 2 3 9 10 6 7 8 5 6 8 4 5 8 4 8 9 3 4 9 2 3 10 12 2 10 0 1 2 0 2 15</string>
+                <key>vertices</key>
+                <string>213 56 213 81 178 103 184 175 197 191 268 199 254 272 230 275 217 246 162 218 120 186 65 184 43 144 35 101 106 21 145 14</string>
+                <key>verticesUV</key>
+                <string>1205 43 1205 68 1170 90 1176 162 1189 178 1260 186 1246 259 1222 262 1209 233 1154 205 1112 173 1057 171 1035 131 1027 88 1098 8 1137 1</string>
+            </dict>
+            <key>survivor-meleeattack_knife_11.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-9,17.5}</string>
+                <key>spriteSize</key>
+                <string>{241,243}</string>
+                <key>spriteSourceSize</key>
+                <string>{329,300}</string>
+                <key>textureRect</key>
+                <string>{{1027,191},{241,243}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 12 13 11 8 10 10 8 9 11 12 1 2 7 8 4 5 6 3 4 6 3 6 7 2 3 7 1 2 8 11 1 8 0 1 13</string>
+                <key>vertices</key>
+                <string>219 65 177 107 186 164 215 175 276 165 264 254 226 218 184 220 103 185 68 186 40 146 35 104 92 28 137 11</string>
+                <key>verticesUV</key>
+                <string>1211 245 1169 287 1178 344 1207 355 1268 345 1256 434 1218 398 1176 400 1095 365 1060 366 1032 326 1027 284 1084 208 1129 191</string>
+            </dict>
+            <key>survivor-meleeattack_knife_12.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-5.5,40.5}</string>
+                <key>spriteSize</key>
+                <string>{250,203}</string>
+                <key>spriteSourceSize</key>
+                <string>{329,300}</string>
+                <key>textureRect</key>
+                <string>{{1027,373},{250,203}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 2 12 11 12 2 3 9 10 6 7 8 8 4 5 8 5 6 4 8 9 3 4 9 2 3 10 11 2 10 0 1 2 0 12 13</string>
+                <key>vertices</key>
+                <string>150 23 209 63 178 111 180 155 209 158 247 133 268 142 284 211 237 194 197 210 70 189 39 149 34 103 108 8</string>
+                <key>verticesUV</key>
+                <string>1143 388 1202 428 1171 476 1173 520 1202 523 1240 498 1261 507 1277 576 1230 559 1190 575 1063 554 1032 514 1027 468 1101 373</string>
+            </dict>
+            <key>survivor-meleeattack_knife_13.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-4,44.5}</string>
+                <key>spriteSize</key>
+                <string>{263,191}</string>
+                <key>spriteSourceSize</key>
+                <string>{329,300}</string>
+                <key>textureRect</key>
+                <string>{{1182,3},{263,191}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 2 12 10 11 12 3 9 10 6 7 8 8 4 5 8 5 6 4 8 9 3 4 9 2 3 10 2 10 12 0 1 2 0 12 13</string>
+                <key>vertices</key>
+                <string>142 21 200 63 177 122 179 149 202 145 227 108 251 107 292 167 249 164 204 201 74 187 45 166 29 112 100 10</string>
+                <key>verticesUV</key>
+                <string>1295 14 1353 56 1330 115 1332 142 1355 138 1380 101 1404 100 1445 160 1402 157 1357 194 1227 180 1198 159 1182 105 1253 3</string>
+            </dict>
+            <key>survivor-meleeattack_knife_14.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-7.5,49}</string>
+                <key>spriteSize</key>
+                <string>{248,184}</string>
+                <key>spriteSourceSize</key>
+                <string>{329,300}</string>
+                <key>textureRect</key>
+                <string>{{1354,973},{248,184}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 1 4 6 1 5 6 7 1 7 8 1 1 2 3 1 3 4 0 1 8 0 8 9</string>
+                <key>vertices</key>
+                <string>193 61 188 121 213 74 281 126 206 193 61 190 33 133 40 96 85 29 121 9</string>
+                <key>verticesUV</key>
+                <string>1514 1025 1509 1085 1534 1038 1602 1090 1527 1157 1382 1154 1354 1097 1361 1060 1406 993 1442 973</string>
+            </dict>
+            <key>survivor-meleeattack_knife_2.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-32,42.5}</string>
+                <key>spriteSize</key>
+                <string>{201,185}</string>
+                <key>spriteSourceSize</key>
+                <string>{329,300}</string>
+                <key>textureRect</key>
+                <string>{{725,1181},{201,185}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 3 4 6 7 0 6 4 5 6 0 4 0 2 3 0 1 2 0 7 8</string>
+                <key>vertices</key>
+                <string>176 48 233 42 227 146 195 168 98 200 59 186 32 141 59 44 90 15</string>
+                <key>verticesUV</key>
+                <string>869 1214 926 1208 920 1312 888 1334 791 1366 752 1352 725 1307 752 1210 783 1181</string>
+            </dict>
+            <key>survivor-meleeattack_knife_3.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-30.5,50}</string>
+                <key>spriteSize</key>
+                <string>{200,196}</string>
+                <key>spriteSourceSize</key>
+                <string>{329,300}</string>
+                <key>textureRect</key>
+                <string>{{1831,184},{200,196}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>6 7 8 3 6 8 4 5 6 0 2 8 3 4 6 2 3 8 0 1 2 0 8 9</string>
+                <key>vertices</key>
+                <string>196 61 234 108 203 150 127 197 88 198 34 165 48 47 81 25 161 40 187 2</string>
+                <key>verticesUV</key>
+                <string>1993 243 2031 290 2000 332 1924 379 1885 380 1831 347 1845 229 1878 207 1958 222 1984 184</string>
+            </dict>
+            <key>survivor-meleeattack_knife_4.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-27,42}</string>
+                <key>spriteSize</key>
+                <string>{197,202}</string>
+                <key>spriteSourceSize</key>
+                <string>{329,300}</string>
+                <key>textureRect</key>
+                <string>{{1,1176},{197,202}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>4 6 7 4 5 6 2 4 7 0 2 7 2 3 4 0 1 2 0 7 8</string>
+                <key>vertices</key>
+                <string>170 50 236 86 190 152 114 209 41 174 39 51 70 34 130 32 142 7</string>
+                <key>verticesUV</key>
+                <string>132 1219 198 1255 152 1321 76 1378 3 1343 1 1220 32 1203 92 1201 104 1176</string>
+            </dict>
+            <key>survivor-meleeattack_knife_5.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-38.5,42}</string>
+                <key>spriteSize</key>
+                <string>{184,184}</string>
+                <key>spriteSourceSize</key>
+                <string>{329,300}</string>
+                <key>textureRect</key>
+                <string>{{193,1213},{184,184}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 7 8 6 0 5 0 3 5 3 4 5 0 1 2 0 2 3 6 7 0</string>
+                <key>vertices</key>
+                <string>145 43 218 66 204 130 136 200 70 200 45 157 34 69 54 43 128 16</string>
+                <key>verticesUV</key>
+                <string>304 1240 377 1263 363 1327 295 1397 229 1397 204 1354 193 1266 213 1240 287 1213</string>
+            </dict>
+            <key>survivor-meleeattack_knife_6.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-11,36}</string>
+                <key>spriteSize</key>
+                <string>{221,192}</string>
+                <key>spriteSourceSize</key>
+                <string>{329,300}</string>
+                <key>textureRect</key>
+                <string>{{1822,801},{221,192}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 10 11 6 7 8 5 6 8 2 8 9 4 5 8 3 4 8 2 3 8 0 9 10 9 0 1 9 1 2</string>
+                <key>vertices</key>
+                <string>241 59 233 132 113 210 57 176 43 133 50 60 77 21 169 51 171 86 193 94 178 24 264 18</string>
+                <key>verticesUV</key>
+                <string>2020 842 2012 915 1892 993 1836 959 1822 916 1829 843 1856 804 1948 834 1950 869 1972 877 1957 807 2043 801</string>
+            </dict>
+            <key>survivor-meleeattack_knife_7.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{16,43}</string>
+                <key>spriteSize</key>
+                <string>{265,184}</string>
+                <key>spriteSourceSize</key>
+                <string>{329,300}</string>
+                <key>textureRect</key>
+                <string>{{1027,561},{265,184}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 10 11 1 9 10 7 8 9 4 5 6 6 2 3 6 3 4 2 6 7 1 2 7 1 7 9 0 1 11</string>
+                <key>vertices</key>
+                <string>191 49 191 109 211 131 288 107 313 122 313 184 248 168 105 199 52 173 48 121 75 38 112 15</string>
+                <key>verticesUV</key>
+                <string>1170 595 1170 655 1190 677 1267 653 1292 668 1292 730 1227 714 1084 745 1031 719 1027 667 1054 584 1091 561</string>
+            </dict>
+            <key>survivor-meleeattack_knife_8.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{2,10.5}</string>
+                <key>spriteSize</key>
+                <string>{257,263}</string>
+                <key>spriteSourceSize</key>
+                <string>{329,300}</string>
+                <key>textureRect</key>
+                <string>{{1,770},{257,263}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>8 2 3 9 10 2 5 6 7 4 5 7 3 4 7 3 7 8 9 2 8 2 10 11 0 1 2 0 2 11</string>
+                <key>vertices</key>
+                <string>156 24 220 61 181 100 194 157 223 173 295 173 267 271 249 220 77 185 49 157 38 109 110 8</string>
+                <key>verticesUV</key>
+                <string>119 786 183 823 144 862 157 919 186 935 258 935 230 1033 212 982 40 947 12 919 1 871 73 770</string>
+            </dict>
+            <key>survivor-meleeattack_knife_9.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-11.5,-7}</string>
+                <key>spriteSize</key>
+                <string>{226,286}</string>
+                <key>spriteSourceSize</key>
+                <string>{329,300}</string>
+                <key>textureRect</key>
+                <string>{{1,960},{226,286}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>3 11 12 10 11 8 10 8 9 4 7 8 7 4 5 7 5 6 3 4 8 3 8 11 0 2 3 0 1 2 0 3 12</string>
+                <key>vertices</key>
+                <string>159 20 224 59 210 84 179 104 188 186 266 220 228 300 178 233 105 183 69 184 40 140 41 95 117 14</string>
+                <key>verticesUV</key>
+                <string>120 966 185 1005 171 1030 140 1050 149 1132 227 1166 189 1246 139 1179 66 1129 30 1130 1 1086 2 1041 78 960</string>
+            </dict>
+            <key>survivor-move_knife_0.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{10,9.5}</string>
+                <key>spriteSize</key>
+                <string>{237,184}</string>
+                <key>spriteSourceSize</key>
+                <string>{279,219}</string>
+                <key>textureRect</key>
+                <string>{{1640,505},{237,184}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 0 4 7 0 6 5 6 0 7 8 0 4 0 2 4 2 3 0 1 2 0 8 9</string>
+                <key>vertices</key>
+                <string>186 57 268 83 226 105 226 165 184 184 76 192 45 158 31 115 85 27 121 8</string>
+                <key>verticesUV</key>
+                <string>1795 554 1877 580 1835 602 1835 662 1793 681 1685 689 1654 655 1640 612 1694 524 1730 505</string>
+            </dict>
+            <key>survivor-move_knife_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{6.5,7.5}</string>
+                <key>spriteSize</key>
+                <string>{238,174}</string>
+                <key>spriteSourceSize</key>
+                <string>{279,219}</string>
+                <key>textureRect</key>
+                <string>{{1804,610},{238,174}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>4 7 8 4 6 7 4 5 6 4 0 2 4 2 3 0 1 2 0 4 8</string>
+                <key>vertices</key>
+                <string>205 68 265 81 226 115 226 176 150 189 67 189 27 122 90 19 131 15</string>
+                <key>verticesUV</key>
+                <string>1982 663 2042 676 2003 710 2003 771 1927 784 1844 784 1804 717 1867 614 1908 610</string>
+            </dict>
+            <key>survivor-move_knife_10.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{12,4.5}</string>
+                <key>spriteSize</key>
+                <string>{243,190}</string>
+                <key>spriteSourceSize</key>
+                <string>{279,219}</string>
+                <key>textureRect</key>
+                <string>{{489,770},{243,190}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>6 7 8 1 3 4 5 6 8 1 4 5 1 5 8 1 2 3 0 1 8 0 8 9</string>
+                <key>vertices</key>
+                <string>146 24 183 72 273 116 229 149 207 200 61 184 32 142 30 87 62 60 102 10</string>
+                <key>verticesUV</key>
+                <string>605 784 642 832 732 876 688 909 666 960 520 944 491 902 489 847 521 820 561 770</string>
+            </dict>
+            <key>survivor-move_knife_11.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{7,4.5}</string>
+                <key>spriteSize</key>
+                <string>{253,188}</string>
+                <key>spriteSourceSize</key>
+                <string>{279,219}</string>
+                <key>textureRect</key>
+                <string>{{1267,514},{253,188}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>3 0 2 3 4 5 3 5 0 0 1 2 0 5 6</string>
+                <key>vertices</key>
+                <string>206 88 273 111 201 199 59 184 20 116 87 28 129 11</string>
+                <key>verticesUV</key>
+                <string>1453 591 1520 614 1448 702 1306 687 1267 619 1334 531 1376 514</string>
+            </dict>
+            <key>survivor-move_knife_12.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{12,6.5}</string>
+                <key>spriteSize</key>
+                <string>{249,190}</string>
+                <key>spriteSourceSize</key>
+                <string>{279,219}</string>
+                <key>textureRect</key>
+                <string>{{1267,696},{249,190}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 2 3 5 6 7 5 0 4 0 3 4 5 7 0 0 1 2 0 7 8</string>
+                <key>vertices</key>
+                <string>189 71 276 113 235 132 209 198 62 185 37 148 27 107 84 31 126 8</string>
+                <key>verticesUV</key>
+                <string>1429 759 1516 801 1475 820 1449 886 1302 873 1277 836 1267 795 1324 719 1366 696</string>
+            </dict>
+            <key>survivor-move_knife_13.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{6,7.5}</string>
+                <key>spriteSize</key>
+                <string>{247,188}</string>
+                <key>spriteSourceSize</key>
+                <string>{279,219}</string>
+                <key>textureRect</key>
+                <string>{{651,880},{247,188}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>3 0 2 4 0 3 4 5 0 0 1 2 0 5 6</string>
+                <key>vertices</key>
+                <string>190 77 269 104 208 196 59 186 22 110 91 24 135 8</string>
+                <key>verticesUV</key>
+                <string>819 949 898 976 837 1068 688 1058 651 982 720 896 764 880</string>
+            </dict>
+            <key>survivor-move_knife_14.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{13,9.5}</string>
+                <key>spriteSize</key>
+                <string>{245,182}</string>
+                <key>spriteSourceSize</key>
+                <string>{279,219}</string>
+                <key>textureRect</key>
+                <string>{{252,1033},{245,182}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 7 6 7 1 1 3 4 1 4 5 1 2 3 6 1 5 0 7 8</string>
+                <key>vertices</key>
+                <string>140 22 193 75 275 102 237 125 212 191 70 191 37 153 30 104 100 9</string>
+                <key>verticesUV</key>
+                <string>362 1046 415 1099 497 1126 459 1149 434 1215 292 1215 259 1177 252 1128 322 1033</string>
+            </dict>
+            <key>survivor-move_knife_15.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{6.5,7}</string>
+                <key>spriteSize</key>
+                <string>{242,179}</string>
+                <key>spriteSourceSize</key>
+                <string>{279,219}</string>
+                <key>textureRect</key>
+                <string>{{1718,343},{242,179}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>6 0 5 7 0 6 7 8 0 3 4 5 0 3 5 0 1 2 0 2 3 0 8 9</string>
+                <key>vertices</key>
+                <string>201 75 267 95 260 106 228 118 225 175 189 189 63 192 25 114 88 22 130 13</string>
+                <key>verticesUV</key>
+                <string>1894 405 1960 425 1953 436 1921 448 1918 505 1882 519 1756 522 1718 444 1781 352 1823 343</string>
+            </dict>
+            <key>survivor-move_knife_16.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{9.5,8.5}</string>
+                <key>spriteSize</key>
+                <string>{248,174}</string>
+                <key>spriteSourceSize</key>
+                <string>{279,219}</string>
+                <key>textureRect</key>
+                <string>{{1622,903},{248,174}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 0 4 6 0 5 6 7 0 2 3 4 0 2 4 0 1 2 0 7 8</string>
+                <key>vertices</key>
+                <string>199 69 273 94 231 116 223 171 197 188 61 188 25 118 90 22 129 14</string>
+                <key>verticesUV</key>
+                <string>1796 958 1870 983 1828 1005 1820 1060 1794 1077 1658 1077 1622 1007 1687 911 1726 903</string>
+            </dict>
+            <key>survivor-move_knife_17.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{6,8}</string>
+                <key>spriteSize</key>
+                <string>{241,187}</string>
+                <key>spriteSourceSize</key>
+                <string>{279,219}</string>
+                <key>textureRect</key>
+                <string>{{374,910},{241,187}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 0 4 5 6 7 5 7 0 2 3 4 0 2 4 0 1 2 0 7 8</string>
+                <key>vertices</key>
+                <string>209 73 266 87 226 128 226 168 192 185 67 195 25 119 87 28 121 8</string>
+                <key>verticesUV</key>
+                <string>558 975 615 989 575 1030 575 1070 541 1087 416 1097 374 1021 436 930 470 910</string>
+            </dict>
+            <key>survivor-move_knife_18.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{8,9}</string>
+                <key>spriteSize</key>
+                <string>{227,175}</string>
+                <key>spriteSourceSize</key>
+                <string>{279,219}</string>
+                <key>textureRect</key>
+                <string>{{410,1162},{227,175}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 7 8 0 3 6 4 5 6 3 4 6 0 2 3 0 1 2 0 6 7</string>
+                <key>vertices</key>
+                <string>207 70 261 83 218 173 176 188 65 188 34 134 41 97 87 24 127 13</string>
+                <key>verticesUV</key>
+                <string>583 1219 637 1232 594 1322 552 1337 441 1337 410 1283 417 1246 463 1173 503 1162</string>
+            </dict>
+            <key>survivor-move_knife_19.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{4,5}</string>
+                <key>spriteSize</key>
+                <string>{233,177}</string>
+                <key>spriteSourceSize</key>
+                <string>{279,219}</string>
+                <key>textureRect</key>
+                <string>{{968,1155},{233,177}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 6 7 3 5 7 3 4 5 0 2 3 0 1 2 0 3 7</string>
+                <key>vertices</key>
+                <string>209 69 260 80 221 169 183 184 69 193 27 122 90 19 131 16</string>
+                <key>verticesUV</key>
+                <string>1150 1208 1201 1219 1162 1308 1124 1323 1010 1332 968 1261 1031 1158 1072 1155</string>
+            </dict>
+            <key>survivor-move_knife_2.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{14,8.5}</string>
+                <key>spriteSize</key>
+                <string>{239,176}</string>
+                <key>spriteSourceSize</key>
+                <string>{279,219}</string>
+                <key>textureRect</key>
+                <string>{{1274,1147},{239,176}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>7 8 9 0 4 7 5 6 7 4 5 7 2 3 4 0 2 4 0 1 2 0 7 9</string>
+                <key>vertices</key>
+                <string>215 73 273 84 232 106 223 167 187 189 65 188 34 134 41 97 87 24 127 13</string>
+                <key>verticesUV</key>
+                <string>1455 1207 1513 1218 1472 1240 1463 1301 1427 1323 1305 1322 1274 1268 1281 1231 1327 1158 1367 1147</string>
+            </dict>
+            <key>survivor-move_knife_3.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{7,8.5}</string>
+                <key>spriteSize</key>
+                <string>{239,180}</string>
+                <key>spriteSourceSize</key>
+                <string>{279,219}</string>
+                <key>textureRect</key>
+                <string>{{1786,1009},{239,180}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 0 4 5 6 0 6 7 0 2 3 4 0 2 4 0 1 2 0 7 8</string>
+                <key>vertices</key>
+                <string>179 53 266 87 230 120 223 170 189 186 63 191 27 118 87 26 128 11</string>
+                <key>verticesUV</key>
+                <string>1938 1051 2025 1085 1989 1118 1982 1168 1948 1184 1822 1189 1786 1116 1846 1024 1887 1009</string>
+            </dict>
+            <key>survivor-move_knife_4.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{9.5,9}</string>
+                <key>spriteSize</key>
+                <string>{248,175}</string>
+                <key>spriteSourceSize</key>
+                <string>{279,219}</string>
+                <key>textureRect</key>
+                <string>{{1620,715},{248,175}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 6 7 5 0 4 0 2 3 0 3 4 0 1 2 5 6 0</string>
+                <key>vertices</key>
+                <string>188 63 273 93 236 113 219 188 63 188 25 118 89 22 132 13</string>
+                <key>verticesUV</key>
+                <string>1783 765 1868 795 1831 815 1814 890 1658 890 1620 820 1684 724 1727 715</string>
+            </dict>
+            <key>survivor-move_knife_5.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{10,6.5}</string>
+                <key>spriteSize</key>
+                <string>{249,178}</string>
+                <key>spriteSourceSize</key>
+                <string>{279,219}</string>
+                <key>textureRect</key>
+                <string>{{559,1042},{249,178}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 6 7 5 0 4 0 2 3 0 3 4 0 1 2 5 6 0</string>
+                <key>vertices</key>
+                <string>208 77 274 97 240 118 213 189 63 192 25 114 88 22 131 14</string>
+                <key>verticesUV</key>
+                <string>742 1105 808 1125 774 1146 747 1217 597 1220 559 1142 622 1050 665 1042</string>
+            </dict>
+            <key>survivor-move_knife_6.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{9,9}</string>
+                <key>spriteSize</key>
+                <string>{237,181}</string>
+                <key>spriteSourceSize</key>
+                <string>{279,219}</string>
+                <key>textureRect</key>
+                <string>{{1797,1},{237,181}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 8 7 8 1 4 5 6 1 4 6 2 3 4 1 2 4 7 1 6 0 8 9</string>
+                <key>vertices</key>
+                <string>141 22 193 74 267 100 261 110 229 120 223 191 70 191 37 153 30 104 98 10</string>
+                <key>verticesUV</key>
+                <string>1908 13 1960 65 2034 91 2028 101 1996 111 1990 182 1837 182 1804 144 1797 95 1865 1</string>
+            </dict>
+            <key>survivor-move_knife_7.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{10,5}</string>
+                <key>spriteSize</key>
+                <string>{253,185}</string>
+                <key>spriteSourceSize</key>
+                <string>{279,219}</string>
+                <key>textureRect</key>
+                <string>{{1020,739},{253,185}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>4 2 3 4 5 6 0 2 4 0 4 6 0 1 2 0 6 7</string>
+                <key>vertices</key>
+                <string>225 89 276 105 234 132 210 197 59 186 23 111 91 24 127 12</string>
+                <key>verticesUV</key>
+                <string>1222 816 1273 832 1231 859 1207 924 1056 913 1020 838 1088 751 1124 739</string>
+            </dict>
+            <key>survivor-move_knife_8.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{7.5,7}</string>
+                <key>spriteSize</key>
+                <string>{252,189}</string>
+                <key>spriteSourceSize</key>
+                <string>{279,219}</string>
+                <key>textureRect</key>
+                <string>{{1447,607},{252,189}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 5 6 7 5 7 0 0 2 4 5 0 4 0 1 2 0 7 8</string>
+                <key>vertices</key>
+                <string>189 71 273 111 227 141 220 178 197 197 59 184 21 115 84 31 126 8</string>
+                <key>verticesUV</key>
+                <string>1615 670 1699 710 1653 740 1646 777 1623 796 1485 783 1447 714 1510 630 1552 607</string>
+            </dict>
+            <key>survivor-move_knife_9.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{7,4.5}</string>
+                <key>spriteSize</key>
+                <string>{253,188}</string>
+                <key>spriteSourceSize</key>
+                <string>{279,219}</string>
+                <key>textureRect</key>
+                <string>{{1438,424},{253,188}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>3 0 2 3 4 5 3 5 0 0 1 2 0 5 6</string>
+                <key>vertices</key>
+                <string>206 88 273 111 201 199 59 184 20 116 87 28 129 11</string>
+                <key>verticesUV</key>
+                <string>1624 501 1691 524 1619 612 1477 597 1438 529 1505 441 1547 424</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>maze_scene.png</string>
+            <key>size</key>
+            <string>{2044,1398}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:0eb7c9ad67c01deb2031cf809031cf77:729f9db3d72b71d26543230243e0bea0:c973e1feb836ef841f684cc47cbd787b$</string>
+            <key>textureFileName</key>
+            <string>maze_scene.png</string>
+        </dict>
+    </dict>
+</plist>
